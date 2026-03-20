@@ -1,4 +1,4 @@
-# Hi, I'm Deniz Dalbasi 👋
+# Hi, I'm Deniz Dalbasi 
 **First year Engineering student committed to get into Computer Engineering Student @ University of British Columbia**
 
 I am a technical problem-solver focused on the intersection of **AI integration**, **embedded systems**, and **automated workflows**. I enjoy bridging the gap between high-level software logic and low-level hardware performance.
@@ -12,7 +12,7 @@ I am a technical problem-solver focused on the intersection of **AI integration*
 
 ---
 
-### 🛠 Featured Projects
+###  Featured Projects
 
 #### [Minecraft Engagement Predictor](https://github.com/denizdalbasi/minecraft-predictor) 
 * **Goal:** Predict player subscription likelihood using machine learning.
