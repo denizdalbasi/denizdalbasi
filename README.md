@@ -45,4 +45,5 @@ I am a technical problem-solver focused on the intersection of **AI integration*
 
 ### Connect with Me
 * **LinkedIn:** [linkedin.com/in/deniz-dalbasi](https://www.linkedin.com/in/deniz-dalbasi)
+* **Website:** [https://denizdalbasi.github.io/website/]([https://www.linkedin.com/in/deniz-dalbasi](https://denizdalbasi.github.io/website/))
 * **Languages:** English (Fluent), Turkish (Native), Russian (Native), German/French (Elementary)
