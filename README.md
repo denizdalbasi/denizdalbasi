@@ -21,18 +21,18 @@ I am a technical problem-solver fascinated by how code interacts with physical h
 
 ### Featured Projects
 
-#### [Nand2Tetris: The Elements of Computing Systems](https://github.com/denizdalbasi/nand2tetris)
+#### Nand2Tetris: The Elements of Computing Systems
 Exploring how computers work from the ground up by building them from basic logic gates.
 *   **The Goal:** Understand how computation is physically realized by reducing systems to first principles.
 *   **Progress:** Implemented foundational chips (Mux, DMux, and 16-bit logic gates) in HDL; currently focused on hardware logic gates and Boolean algebra while adapting to concurrent hardware thinking.
 
-#### [Telegram Enrollment & CRM Bot](https://github.com/denizdalbasi/crm-bot)
+#### Telegram Enrollment & CRM Bot
 Automating complex registration workflows.
 *   **Key Engineering:** Designed a **Finite State Machine (FSM)** to handle multi-step user data validation and real-time CRUD operations.
 
-#### [Denigor Ascend](https://github.com/denizdalbasi/doodle-jump-clone)
+#### Denigor Ascend
 High-performance 2D platformer.
-*   **Focus:** OOP Principles and optimized collision detection for low-latency gameplay.
+*   **Focus:** OOP principles and optimized collision detection for low-latency gameplay.
 
 ---
 
