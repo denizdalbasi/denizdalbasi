@@ -1,6 +1,6 @@
 # Hi, I'm Deniz Dalbasi
 
-** First-Year @ UBC | Intended Computer Engineering*
+## First-Year @ UBC | Intended Computer Engineering
 
 I am a technical problem-solver fascinated by how code interacts with physical hardware. My journey started with high-level automation and is now moving "down the stack" into computer architecture, embedded systems, and low-level optimization.
 
@@ -42,4 +42,4 @@ High-performance 2D platformer.
 ---
 
 ### Connect with me:
-[Website](https://denizdalbasi.com) | [LinkedIn](https://linkedin.com/in/deniz-dalbasi)
+[Website](https://denizdalbasi.github.io/website/) | [LinkedIn](wwww.linkedin.com/in/deniz-dalbasi)
