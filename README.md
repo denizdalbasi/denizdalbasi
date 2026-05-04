@@ -29,11 +29,7 @@ Exploring how computers work from the ground up by building them from basic logi
 #### Telegram Enrollment & CRM Bot
 Automating complex registration workflows.
 *   **Key Engineering:** Designed a **Finite State Machine (FSM)** to handle multi-step user data validation and real-time CRUD operations.
-
-#### Denigor Ascend
-High-performance 2D platformer.
-*   **Focus:** OOP principles and optimized collision detection for low-latency gameplay.
-
+  
 ---
 
 ### Competitions & Stats
