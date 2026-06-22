@@ -1,6 +1,6 @@
 # Hi, I'm Deniz Dalbasi
 
-* **First-Year @ UBC** | Intended Computer Engineering
+* **Computer Engineering student @ UBC**
 
 I am a technical problem-solver fascinated by how software interacts with physical hardware. My journey started with high-level automation, and I am now moving "down the stack" into computer architecture, embedded systems, and low-level software optimization.
 
