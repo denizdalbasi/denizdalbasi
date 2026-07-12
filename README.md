@@ -4,14 +4,8 @@
 I am a Computer Engineering student at UBC. 
 
 I am a technical problem-solver fascinated by how software interacts with physical hardware. My journey started with high-level automation, and I am now moving "down the stack" into computer architecture, embedded systems, and low-level software optimization.
-I am a technical problem-solver fascinated by how software interacts with physical hardware. I started my journey with high-level automation, and I have since moved "down the stack" into computer architecture, embedded systems, and low-level software optimization.
+ **[Explore all my repositories on GitHub](https://github.com/denizdalbasi?tab=repositories)**
 
-- Currently building a 16-bit computer from scratch via **Nand2Tetris** (currently working on Project 8) while simultaneously learning **STM32**.
-- Exploring the intersection of **Embedded Systems** and **Automated Workflows**.
-- Focused on mastering **C**, **Systems Programming**, and **Hardware-Software integration**.
-* **Latest Milestone:** I have fully completed the Nand2Tetris curriculum, building a 16-bit computer completely from scratch—from basic logic gates up to a high-level language compiler and operating system.
-* **Current Focus:** Developing firmware for STM32 microcontrollers, mastering low-level C programming, and understanding hardware-software integration.
-* **Interests:** Exploring the intersection of Embedded Systems, automated development workflows, and Artificial Intelligence (AI).
 
 ---
 
