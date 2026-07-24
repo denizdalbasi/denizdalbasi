@@ -1,7 +1,6 @@
 # Hi, I'm Deniz Dalbasi
 
 * **Computer Engineering student @ UBC**
-I am a Computer Engineering student at UBC. 
 
 I am a technical problem-solver fascinated by how software interacts with physical hardware. My journey started with high-level automation, and I am now moving "down the stack" into computer architecture, embedded systems, and low-level software optimization.
  **[Explore all my repositories on GitHub](https://github.com/denizdalbasi?tab=repositories)**
@@ -23,15 +22,15 @@ I am a technical problem-solver fascinated by how software interacts with physic
 ### Featured Projects
   
 #### Nand2Tetris: Complete 16-Bit Computer System
-*Built a modern computer system from scratch, covering both hardware architecture and software layers.*
-* **Hardware Design:** Built basic logic gates, the Arithmetic Logic Unit (ALU), RAM modules, and the CPU using Hardware Description Language (HDL).
-* **Software Stack:** Developed a two-pass Assembler in Python, a stack-based Virtual Machine Translator, and a full compiler for the object-oriented Jack programming language.
-* **Operating System:** Wrote a basic OS in Jack to handle memory allocation, graphics rendering, string operations, and hardware input/output.
+* Designed and built a complete 16-bit computer from NAND gates up through the ALU, CPU, assembler, VM translator, compiler, and OS across all 12 course projects, implementing a full custom instruction set architecture
+* Wrote a two-pass assembler in Python to translate assembly into binary machine code, and a Jack-to-VM compiler in Java to translate high-level code into low-level hardware instructions
+
 
 #### STM32 Firmware Development
-*Writing low-level C code to control hardware components and understand microcontroller architecture.*
-* **Hardware Interrupts:** Configured the system to react instantly to external button presses using hardware interrupts, keeping the CPU efficient instead of wasting clock cycles.
-* **Control Logic:** Built a traffic light control system and implemented software debouncing to clean up noisy hardware button signals.
+* Configured GPIO, clock (RCC), and interrupt registers on STM32 to service real-time hardware events
+* Wrote bare-metal C drivers (no HAL abstraction) to control buttons, 7-segment displays, and LEDs
+* Implemented interrupt-driven, non-blocking debounce logic, eliminating UI freezes during rapid input
+
 
 ---
 ### Competitions & Achievements
