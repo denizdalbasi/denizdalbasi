@@ -2,7 +2,7 @@
 
 * **Computer Engineering student @ UBC**
 
-I am a technical problem-solver fascinated by how software interacts with physical hardware. My journey started with high-level automation, and I am now moving "down the stack" into computer architecture, embedded systems, and low-level software optimization.
+I am fascinated by how software interacts with physical hardware. My journey started with just learning programming languages, and I am now moving into computer architecture, embedded systems, and low-level software optimization.
  **[Explore all my repositories on GitHub](https://github.com/denizdalbasi?tab=repositories)**
 
 
@@ -10,12 +10,10 @@ I am a technical problem-solver fascinated by how software interacts with physic
 
 ### Technical Skills
 
-* **Languages:** C, Python, Java, R
-* **Programming Languages:** C, Python, Java, R, Assembly, HDL (Hardware Description Language)
-* **Embedded & Hardware:** ARM Cortex-M Architecture, Registers, GPIO, Timers, Microcontrollers
-* **Peripherals & Protocols:** USART/UART, PWM, Interrupts (NVIC/EXTI)
+* **Languages:** Python, C, C++, Java, JavaScript/TypeScript, SQL, R
+* **Embedded & Hardware:**SystemVerilog/HDL, STM32, ARM Assembly, GPIO/Interrupt Interfacing, Microcontrollers
 * **Tools:** Git, GitHub, VS Code
-* **Tools & Platforms:** Git, GitHub, VS Code
+* **Tools & Platforms:** Git, GitHub, VS Code, Linux, STM32CubeIDE, Supabase, Vercel
 
 ---
 
@@ -31,9 +29,9 @@ I am a technical problem-solver fascinated by how software interacts with physic
 * Wrote bare-metal C drivers (no HAL abstraction) to control buttons, 7-segment displays, and LEDs
 * Implemented interrupt-driven, non-blocking debounce logic, eliminating UI freezes during rapid input
 
+#### Desktop Voice Assistant — Multithreaded Automation Tool	Python, REST APIs, Multithreading
+* Built a multithreaded desktop voice assistant with a live HUD, running background threads for audio capture, command parsing, and UI rendering without blocking the main thread
+* Designed a command-parsing pipeline for system monitoring (CPU/RAM), live API search, and automated Git operations, supporting 22 distinct voice commands
 
----
-### Competitions & Achievements
-* **Canadian Computing Competition (CCC):** Placed in the top 25% nationally for algorithmic problem-solving.
 
----
+
