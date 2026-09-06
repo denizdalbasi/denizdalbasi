@@ -26,8 +26,6 @@ I am fascinated by how software interacts with physical hardware. My journey sta
 
 #### STM32 Firmware Development
 •	Configured system clocks (RCC), GPIOs, and timer peripherals on STM32 using STM32CubeMX and HAL libraries to interface with mixed hardware.
-•	Developed modular driver layers to control DC/stepper motors, ultrasonic distance sensors (HC-SR04), 7-segment/LCD panels, and buttons/LEDs.
-•	Implemented priority-based input handling and timing routines to process high-priority sensor feedback smoothly without locking up the main control loop.
 
 #### Desktop Voice Assistant — Multithreaded Automation Tool	Python, REST APIs, Multithreading
 * Built a multithreaded desktop voice assistant with a live HUD, running background threads for audio capture, command parsing, and UI rendering without blocking the main thread
