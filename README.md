@@ -18,14 +18,16 @@ I am fascinated by how software interacts with physical hardware. My journey sta
 ---
 
 ### Featured Projects
-  
-#### Nand2Tetris: Complete 16-Bit Computer System
-* Designed and built a complete 16-bit computer from NAND gates up through the ALU, CPU, assembler, VM translator, compiler, and OS across all 12 course projects, implementing a full custom instruction set architecture
-* Wrote a two-pass assembler in Python to translate assembly into binary machine code, and a Jack-to-VM compiler in Java to translate high-level code into low-level hardware instructions
-
 
 #### STM32 Firmware Development
 •	Configured system clocks (RCC), GPIOs, and timer peripherals on STM32 using STM32CubeMX and HAL libraries to interface with mixed hardware.
+•	Developed modular driver layers to control DC/stepper motors, ultrasonic distance sensors (HC-SR04), 7-segment panels, and buttons/LEDs.
+•	Implemented priority-based input handling and timing routines to process high-priority sensor feedback smoothly without locking up the main control loop.
+
+#### Nand2Tetris: Complete 16-Bit Computer System
+•	Designed a full 16-bit computer stack: wrote a two-pass Assembler (Python), VM Translator, and a Jack-to-VM Compiler (Java).
+•	Built CPU/ALU hardware components using HDL projects, implementing a custom instruction set architecture.
+
 
 #### Desktop Voice Assistant — Multithreaded Automation Tool	Python, REST APIs, Multithreading
 * Built a multithreaded desktop voice assistant with a live HUD, running background threads for audio capture, command parsing, and UI rendering without blocking the main thread
